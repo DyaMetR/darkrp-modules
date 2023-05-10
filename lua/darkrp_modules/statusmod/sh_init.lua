@@ -1,0 +1,2 @@
+
+DarkRP.isStatusModInstalled = true
