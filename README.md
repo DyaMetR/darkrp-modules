@@ -50,7 +50,7 @@ Most probable is that you just want to benefit from a handful of modules, in tha
 | Public enemy | Automatically makes players who engage in mass murder wanted by the police |
 | Reminder    | Periodically posts tips on the chat for newcomers |
 | Running sounds | Combine player models emit gear moving sounds when running |
-| Scientist   | Hard drug manufacturing |
+| Scientist   | Hard drug manufacturing with powerful buffs and dangerous consequences |
 | Security Guard | Keep track of a client's status and protect them and their property |
 | StaminaMod  | Limited running and oxygen |
 | StatusMod   | Adds buffs and debuffs -- works with AlcoholMod, HungerMod+, Medic+, Scientist and StaminaMod |
